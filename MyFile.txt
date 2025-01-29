@@ -1,1 +1,2 @@
-adding text file to git 
+adding first file to git 
+adding second line to git
