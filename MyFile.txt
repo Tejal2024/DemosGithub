@@ -2,3 +2,5 @@ adding first file to git
 adding second line to git
 addingnew
 this is new
+adding this code
+trying to adding the code
