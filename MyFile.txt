@@ -1,4 +1,4 @@
-adding first file to git 
+this adding first file to git 
 adding second line to git
 addingnew
 this is new
@@ -8,3 +8,4 @@ sjsjsjs
 adding  some new code to file
 adding this line from Git
 Adding Git this line
+This is Login code - from Git
