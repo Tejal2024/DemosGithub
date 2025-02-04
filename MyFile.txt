@@ -5,6 +5,5 @@ this is new
 adding this code
 trying to adding the code
 sjsjsjs
-adding  some new code to file
-adding this line from Git
-Adding Git this line
+adding  some new code to file 
+adding request from pull
