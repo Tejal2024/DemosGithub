@@ -9,4 +9,8 @@ adding  some new code to file
 adding request from pull
 adding this file from local
 
+<<<<<<< HEAD
 chsnges from local
+=======
+changes made from Github
+>>>>>>> 8ca71e58b8066bf5dc5676fcac9aa6515b262670
