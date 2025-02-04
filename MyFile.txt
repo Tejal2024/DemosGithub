@@ -1,4 +1,4 @@
-adding first file to git 
+this adding first file to git 
 adding second line to git
 addingnew
 this is new
